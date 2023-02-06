@@ -3,6 +3,4 @@ Exploratory Data Analysis (EDA) is a crucial step in the data science process th
 EDA is an iterative process and it is an important step to perform before building any model. It helps to understand the data and its characteristics, which in turn will help to select the appropriate model and to improve the model performance.
 
 ### Why this repo?
-In this repo, I'll use different types of datasets to explore and implement various Exploratory Data Analysis (EDA) approaches.
-
-
+In this repo, I'll use different types of datasets to explore and implement various EDA approaches.
