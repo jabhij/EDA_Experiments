@@ -4,3 +4,11 @@ EDA is an iterative process and it is an important step to perform before buildi
 
 ### Why this repo?
 In this repo, I'll use different types of datasets to explore and implement various EDA approaches.
+
+### Catch me
+For any query, ping me on 
+- LinkedIn: [@jabhij](https://www.linkedin.com/in/jabhij/)
+- Twitter: [@jabhij](https://twitter.com/jabhij)
+- Web: [LetUsTweak](http://letustweak.com)
+
+Hope, it helps!! ヅ
